@@ -1,5 +1,2 @@
-This is version 1
-This is version 2
-I have modified this sentence, now it is version 2.2
-I add version 3
-
+大家好
+这是中文版1
